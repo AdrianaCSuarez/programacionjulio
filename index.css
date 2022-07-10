@@ -1,0 +1,27 @@
+
+.imagen {
+    width: 50%;
+    height: 50%;
+}
+p {
+    color: rgb(43, 226, 119);
+    font-style: oblique;
+    background-color: beige;
+    border: 5px  blueviolet;
+    border-radius: 10px;
+}
+
+.titulo {
+    font-family: cursive;
+    font-size: medium;
+    color: blue; 
+}
+
+.listas {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: chartreuse;
+    background-color: beige; 
+    border: 5px blueviolet;
+    border-radius: 10px;
+}
