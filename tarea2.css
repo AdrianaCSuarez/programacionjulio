@@ -5,7 +5,7 @@ body {
     background-color: coral;
  }
 .logotipo{ 
-    width: 150px; 
+    width: 50%; 
     margin-bottom: auto;
 
 }
@@ -22,7 +22,7 @@ body {
     }
 
 .cuerpo {
-    margin:20px auto;
+    margin:50px auto;
     padding-left: 30px;
     border-radius: 50px;
     background-color: chocolate;
@@ -30,12 +30,9 @@ body {
     width: 70%;
     font-family: fantasy;
     text-align: justify;
-    height: 500px;
+    height: 400px;
 
     }
-nav {
-    
-}
 
 .pie {
     margin: auto;
